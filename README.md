@@ -28,4 +28,8 @@ I build practical and user-friendly web and software solutions. I enjoy learning
 
 ## 🔗 Connect With Me
 
+**Email:** ahmadsagir202@gmail.com
+
 **LinkedIn:** [Ahmad Sagir](https://www.linkedin.com/in/ahmad-sagir-8b0444260)
+
+**GitHub:** [ahmaddeedatt2](https://github.com/ahmaddeedatt2)
